@@ -6,7 +6,7 @@ Bienvenido al curso completo de **Proxmox Virtual Environment (VE)**, diseñado 
 
 ## 📚 Contenido del Curso
 
-1️⃣ Introducción a Proxmox VEQué es Proxmox, características, requisitos y casos de uso.
+1️⃣ [Introducción a Proxmox VE. ¿Qué es Proxmox?, características, requisitos y casos de uso.](modulo_1_proxmox.md)
 
 2️⃣ Instalación de Proxmox VEDescarga, instalación paso a paso y configuración inicial.
 
