@@ -16,10 +16,11 @@ Bienvenido al curso completo de **Proxmox Virtual Environment (VE)**, diseñado 
 
 5️⃣ Snapshots, Backups y RestoreProtección de datos y recuperación ante fallos.
 
-6️⃣ Redes y Firewall | Configuración de bridges, VLANs y reglas de seguridad. 
+6️⃣ Redes y Firewall. Configuración de bridges, VLANs y reglas de seguridad. 
 
-7️⃣ Alta disponibilidad y clústeres | Gestión de múltiples nodos y migración en vivo.
-8️⃣ Integración con servicios externos | VPN, almacenamiento remoto y autenticación LDAP/AD.
+7️⃣ Alta disponibilidad y clústeres. Gestión de múltiples nodos y migración en vivo.
+
+8️⃣ Integración con servicios externos. VPN, almacenamiento remoto y autenticación LDAP/AD.
 
 ---
 
