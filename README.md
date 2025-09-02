@@ -1,4 +1,3 @@
-# proxmox
 # 📦 Curso de Proxmox VE desde Cero
 
 Bienvenido al curso completo de **Proxmox Virtual Environment (VE)**, diseñado para estudiantes, docentes y profesionales del ámbito de la ciberseguridad y la administración de sistemas. Este curso incluye documentación detallada, capturas reales y simuladas, y ejemplos prácticos para cada módulo.
