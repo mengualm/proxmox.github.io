@@ -6,14 +6,20 @@ Bienvenido al curso completo de **Proxmox Virtual Environment (VE)**, diseñado 
 
 ## 📚 Contenido del Curso
 
-1️⃣Introducción a Proxmox VEQué es Proxmox, características, requisitos y casos de uso.
-2️⃣Instalación de Proxmox VEDescarga, instalación paso a paso y configuración inicial.
-3️⃣Gestión de Máquinas VirtualesCreación, configuración, instalación de SO y acceso.
-4️⃣Gestión de Contenedores LXCCreación y administración de contenedores ligeros.
-5️⃣Snapshots, Backups y RestoreProtección de datos y recuperación ante fallos.| 
-6️⃣ | Redes y Firewall | Configuración de bridges, VLANs y reglas de seguridad. |
-7️⃣ | Alta disponibilidad y clústeres | Gestión de múltiples nodos y migración en vivo. |
-8️⃣ | Integración con servicios externos | VPN, almacenamiento remoto y autenticación LDAP/AD. |
+1️⃣ Introducción a Proxmox VEQué es Proxmox, características, requisitos y casos de uso.
+
+2️⃣ Instalación de Proxmox VEDescarga, instalación paso a paso y configuración inicial.
+
+3️⃣ Gestión de Máquinas VirtualesCreación, configuración, instalación de SO y acceso.
+
+4️⃣ Gestión de Contenedores LXCCreación y administración de contenedores ligeros.
+
+5️⃣ Snapshots, Backups y RestoreProtección de datos y recuperación ante fallos.
+
+6️⃣ Redes y Firewall | Configuración de bridges, VLANs y reglas de seguridad. 
+
+7️⃣ Alta disponibilidad y clústeres | Gestión de múltiples nodos y migración en vivo.
+8️⃣ Integración con servicios externos | VPN, almacenamiento remoto y autenticación LDAP/AD.
 
 ---
 
