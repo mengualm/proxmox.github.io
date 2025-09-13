@@ -42,7 +42,7 @@ Las imágenes utilizadas en cada módulo están disponibles en la carpeta `image
 
 **Manuel Enguídanos**  
 Profesor de ASO  
-GitHub: TuPerfil
+GitHub: git@github.com:mengualm/proxmox.github.io.git
 
 ---
 
