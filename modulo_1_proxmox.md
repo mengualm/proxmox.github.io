@@ -4,7 +4,7 @@
 ## ¿Qué es Proxmox VE?
 Proxmox Virtual Environment (Proxmox VE) es una plataforma de virtualización de código abierto basada en Debian, que permite gestionar máquinas virtuales (KVM) y contenedores (LXC) desde una interfaz web intuitiva.
 
-![Proxmox Dashboard](images/proxmox_dashboard.png)
+![Proxmox Dashboard](images/Proxmox-VE-6.2-Dashboard.jpg)
 
 ---
 
