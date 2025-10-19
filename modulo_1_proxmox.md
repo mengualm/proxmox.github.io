@@ -17,7 +17,7 @@ Proxmox Virtual Environment (Proxmox VE) es una plataforma de virtualización de
 - Clústeres y migración en vivo
 - Integración con Ceph y otros sistemas distribuidos
 
-![Características](images/caracteristicas.png)
+![Características](images/caracteristicas-proxmox.jpg)
 
 ---
 
