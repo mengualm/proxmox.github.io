@@ -10,7 +10,7 @@ Visita el sitio oficial de Proxmox para descargar la última versión:
 ---
 
 ## 2. Preparación del USB booteable
-Utiliza herramientas como **Rufus** o **BalenaEtcher** para crear un USB booteable.
+Utiliza herramientas como **Rufus** o **BalenaEtcher** o **Ventoy** para crear un USB booteable.
 
 ![Rufus USB](images/rufus_usb.png)
 
@@ -23,7 +23,7 @@ Arranca el servidor desde el USB y sigue los pasos del instalador:
 - Contraseña de root
 - Configuración de red
 
-![Instalador Proxmox](images/instalador_proxmox.png)
+![Instalador Proxmox](images/Descarga ISOProxmox.JPG)
 
 ---
 
