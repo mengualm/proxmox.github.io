@@ -3,7 +3,7 @@
 
 ## 1. Descarga de la ISO oficial
 Visita el sitio oficial de Proxmox para descargar la última versión:
-[https://www.proxmox.com/en/downloads](https://www.proxmox.com/en/downloads)
+[https://www.proxmox.com/en/downloads](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso)
 
 ![Descarga ISO](images/Descarga_ISOProxmox.JPG)
 
