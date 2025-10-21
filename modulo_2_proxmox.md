@@ -33,7 +33,7 @@ Accede a la interfaz web desde otro equipo:
 https://IP_DEL_SERVIDOR:8006
 ```
 
-![Acceso Web](images/acceso_web.png)
+![Acceso Web](images/Inicio-web-proxmox.png)
 
 ---
 
@@ -42,7 +42,7 @@ https://IP_DEL_SERVIDOR:8006
 - Configurar almacenamiento y red
 - Omitir suscripción si es necesario
 
-![Configuración Inicial](images/configuracion_inicial.png)
+![Configuración Inicial](images/panel-principal-proxmox.png)
 
 ---
 
