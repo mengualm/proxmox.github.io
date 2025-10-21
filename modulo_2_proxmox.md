@@ -5,7 +5,7 @@
 Visita el sitio oficial de Proxmox para descargar la última versión:
 [https://www.proxmox.com/en/downloads](https://www.proxmox.com/en/downloads)
 
-![Descarga ISO](images/descarga_iso.png)
+![Descarga ISO](images/Descarga ISOProxmox.JPG)
 
 ---
 
