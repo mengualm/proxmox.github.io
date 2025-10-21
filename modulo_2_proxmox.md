@@ -12,7 +12,7 @@ Visita el sitio oficial de Proxmox para descargar la última versión:
 ## 2. Preparación del USB booteable
 Utiliza herramientas como **Rufus** o **BalenaEtcher** o **Ventoy** para crear un USB booteable.
 
-![Rufus USB](images/rufus_usb.png)
+![Rufus USB](images/Rufus-Balena-Ventoy.JPG)
 
 ---
 
