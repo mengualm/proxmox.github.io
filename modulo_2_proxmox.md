@@ -23,7 +23,7 @@ Arranca el servidor desde el USB y sigue los pasos del instalador:
 - Contraseña de root
 - Configuración de red
 
-![Instalador Proxmox](images/Instalar-Proxmox-VE.png)
+![Instalador Proxmox](images/Instalar-Proxmox-VE-1.png)
 
 ---
 
