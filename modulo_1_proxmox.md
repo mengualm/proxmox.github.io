@@ -37,7 +37,7 @@ Proxmox Virtual Environment (Proxmox VE) es una plataforma de virtualización de
 - Servidores de producción
 - Formación en ciberseguridad y administración de sistemas
 
-![Casos de uso](images/casos_uso.png)
+![Casos de uso](images/proxmox_casos_uso.png)
 
 ---
 
