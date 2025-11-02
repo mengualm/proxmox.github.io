@@ -46,7 +46,7 @@ https://IP_DEL_SERVIDOR:8006
 
 ---
 
-## 6. Comandos útiles
+## 6. Comandos útiles en la instalación
 ```bash
 apt update && apt upgrade
 pveversion
