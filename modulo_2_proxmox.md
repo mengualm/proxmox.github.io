@@ -23,7 +23,7 @@ Arranca el servidor desde el USB y sigue los pasos del instalador:
 - Contraseña de root
 - Configuración de red
 
-![Instalador Proxmox](images/Descarga ISOProxmox.JPG)
+![Instalador Proxmox](images/Descarga_ISOProxmox.JPG)
 
 ---
 
