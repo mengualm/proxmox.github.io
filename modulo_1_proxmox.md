@@ -27,7 +27,7 @@ Proxmox Virtual Environment (Proxmox VE) es una plataforma de virtualización de
 - Disco duro de al menos 32 GB
 - Conectividad de red
 
-![Requisitos](images/requisitos.png)
+![Requisitos](images/Requisitos.JPG)
 
 ---
 
